@@ -1,1 +1,2 @@
-# Projeto criado utilizando ReactJS, React Native & Node.js durante a "Semana OmniStack 10.0".
+# Semana OmniStack 10.0
+Projeto criado utilizando ReactJS, React Native & Node.js durante a "Semana OmniStack 10.0".
